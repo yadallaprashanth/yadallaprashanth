@@ -3,9 +3,9 @@
 
 ### 👩‍💻 About Me:
 <p align="left">
-    🖥️ A Final-Year Computer Science Student and Aspiring Software Developer.  
+    🖥️ Software Engineer @ INFO SERVICES Digitech India Pvt. Ltd.
     <br>
-    🌱 Currently focusing on Full Stack Development and AI/ML to build cutting-edge applications.  
+    🌱 I'm passionate about coding, problem-solving, and innovation.  
     <br>
     💡 Fun Fact About Me: I’m a self-taught coder and enjoy learning new programming languages.
 </p>
